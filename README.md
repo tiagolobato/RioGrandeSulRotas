@@ -1,6 +1,6 @@
 # Rio Grande do Sul - Rotas e Estradas disponíveis
-Esse projeto tem como objetivo facilitar a consulta das rotas e estradas do Rio Grande do Sul, entre as cidades, e possíveis desvios causados pelas chuvas.
-Como estamos acompanhando, o Rio Grande do Sul tem enfrentado uma grande dificuldade com as chuvas e as enchentes. Muitas pessoas estão desabrigadas, e muitas estão transitando para outras cidades, buscando abrigo ou ajuda. Com as chuvas, muitas estradas foram interditadas ou destruídas, dificultando a movimentação das pessoas. Com essa aplicação, as pessoas vão poder consultar a melhor rota para transitarem de um lugar para outro e ficar cientes de possíveis problemas nas estradas.
+A situação do Rio Grande do Sul é alarmante e muitas estradas se encontram interditadas, bloqueadas ou com desvio. Esse projeto tem como objetivo facilitar a consulta, em tempo real, das rotas e estradas do Rio Grande do Sul, entre as cidades, e possíveis desvios causados pelas chuvas. Como estamos acompanhando, o Rio Grande do Sul tem enfrentado uma grande dificuldade com as chuvas e as enchentes. Muitas pessoas estão desabrigadas, e muitas estão transitando para outras cidades, buscando abrigo ou ajuda. Com as chuvas, muitas estradas foram interditadas ou destruídas, dificultando a movimentação das pessoas. Com essa aplicação, as pessoas vão poder consultar a melhor rota para transitarem de um lugar para outro e ficar cientes de possíveis problemas nas estradas.
+A consulta das estradas é feita pelo site da Comando Rodoviário da Brigada Militar (CRBM): https://crbm.app.br/gestao-de-rotas/index.php?class=RotaCardList
 
 ## Execução do projeto
 
